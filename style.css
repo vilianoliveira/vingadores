@@ -1,0 +1,139 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    background-image: url(imagens/avengers.png);
+    padding: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+article, h1{
+    max-width: 600px;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    padding: 10px;
+    line-height: 30px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 255, 0.425);
+}
+
+div.vig{
+    background-image: url(imagens/Vingadores.jpg);
+    padding: 150px;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.vig p, h1{
+    background-color: rgba(0, 0, 0, 0.705);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
+
+div.ferro{
+    background-image: url(imagens/ferro.jpg);
+    padding: 150px;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.ferro p, h2{
+    background-color: rgba(0, 0, 0, 0.712);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
+
+div.hulk{
+    background-image: url(imagens/hulk.avif);
+    padding: 150px;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.hulk p, h2{
+    background-color: rgba(0, 0, 0, 0.712);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
+
+div.thor{
+    background-image: url(imagens/thor.jpg);
+    padding: 150px;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.thor p, h2{
+    background-color: rgba(0, 0, 0, 0.712);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
+
+div.america{
+    background-image: url(imagens/capitão.jpg);
+    padding: 150px;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.america p, h2{
+    background-color: rgba(0, 0, 0, 0.712);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
+div.viuva{
+    background-image: url(imagens/viuva.jpg);
+    padding: 150px;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.viuva p, h2{
+    background-color: rgba(0, 0, 0, 0.712);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
+div.arqueiro{
+    background-image: url(imagens/arqueiro.jpg);
+    padding: 150px;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.arqueiro p, h2{
+    background-color: rgba(0, 0, 0, 0.712);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
