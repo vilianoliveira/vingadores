@@ -110,7 +110,7 @@ div.america p, h2{
 div.viuva{
     background-image: url(imagens/viuva.jpg);
     padding: 150px;
-    background-position: top center;
+    background-position: left center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -125,7 +125,7 @@ div.viuva p, h2{
 div.arqueiro{
     background-image: url(imagens/arqueiro.jpg);
     padding: 150px;
-    background-position: top center;
+    background-position: left center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
